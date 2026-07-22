@@ -26,15 +26,15 @@ function Home() {
             <Reveal>
               <h1 className="text-4xl leading-[1.1] font-bold sm:text-5xl">
                 I&apos;m Richmond,
-                <br />a Web Developer
+                <br />a Full-Stack Developer
               </h1>
             </Reveal>
             <Reveal delay={150} variant="wipe">
               <p className="max-w-md leading-relaxed text-gray-400">
-                I&apos;m a <span className="font-medium text-orange-500">developer</span> who
-                turns ideas into{' '}
-                <span className="font-medium text-orange-500">real products</span>. I focus on
-                clean interfaces, sharp logic, and fast execution.
+                I turn <span className="font-medium text-orange-500">bold ideas</span> into{' '}
+                <span className="font-medium text-orange-500">real, working products</span> —
+                blending clean interfaces, sharp logic, and fast execution into experiences
+                people actually enjoy using.
               </p>
             </Reveal>
             <Reveal delay={200}>
@@ -89,7 +89,7 @@ function Home() {
         <Reveal>
           <h2 className="mb-2 text-2xl font-semibold text-gray-900 dark:text-white">About Me</h2>
           <p className="max-w-2xl text-gray-600 dark:text-gray-400">
-            I&apos;m a web developer who enjoys building clean, functional interfaces from
+            I&apos;m a full-stack developer who enjoys building clean, functional interfaces from
             idea to deployment. Here&apos;s a quick snapshot of what I&apos;ve worked on so far.
           </p>
         </Reveal>
